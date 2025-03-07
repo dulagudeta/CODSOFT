@@ -1,4 +1,4 @@
-# Task 2 -  PASSWORD GENERATOR 
+# Task 3 -  PASSWORD GENERATOR 
 
 ## Description
  A password generator is a useful tool that generates strong and
