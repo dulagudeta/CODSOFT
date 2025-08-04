@@ -9,6 +9,3 @@
  **Delete Contact**: Provide an option to delete a contact.
  **User Interface**: Design a user-friendly interface for easy interaction.
 
-## Technologies Used
-python
-
