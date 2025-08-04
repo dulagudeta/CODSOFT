@@ -74,9 +74,7 @@ This repository contains a collection of Python projects developed during my int
 
 Feel free to fork this repository and submit pull requests with improvements or additional features.
 
-## License
 
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
