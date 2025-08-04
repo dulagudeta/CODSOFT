@@ -13,6 +13,4 @@
  User Interface: Design a user-friendly interface with clear instructions and
  feedback
 
-## Technologies Used
-python
 
